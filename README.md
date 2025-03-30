@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/triikas)
+[![codewars](https://www.codewars.com/users/triikas/badges/large)](https://www.codewars.com/users/triikas)
