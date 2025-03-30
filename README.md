@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm <span style="color:#d56820">Triikas</span>!</h1>
-
 ---
 <p align="center">
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
