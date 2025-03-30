@@ -21,9 +21,3 @@
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
-
-- ![🟥](https://via.placeholder.com/15/f03c15/000000?text=+) **Красный текст**
-- ![🟩](https://via.placeholder.com/15/00b300/000000?text=+) **Зелёный текст**
-
-
